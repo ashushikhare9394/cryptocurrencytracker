@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.blogItem {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+.currencyLogo {
+  height: 20px;
+  width: 20px;
+  margin: 8px;
+}
+.name {
+  color: #ffffff;
+  font-size: 12px;
+  font-family: 'Roboto';
+}

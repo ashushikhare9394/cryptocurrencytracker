@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #00e7ff;
+  font-size: 30px;
+  font-weight: 300;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.cryptocurrencyImage {
+  height: 40px;
+}
+.list_item {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  background-color: #092e33;
+  height: 20px;
+}
+.h1 {
+  color: #ffffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
